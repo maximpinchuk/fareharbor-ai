@@ -1,0 +1,8 @@
+.env
+creds.txt
+client_secrets.json
+credentials.json
+token.json
+index.json
+
+.DS_Store
